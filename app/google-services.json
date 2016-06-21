@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "634119591212",
+    "firebase_url": "https://dizzayup.firebaseio.com",
+    "project_id": "dizzayup",
+    "storage_bucket": "dizzayup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634119591212:android:59353e4ec94ea293",
+        "android_client_info": {
+          "package_name": "com.dizzay.firebaselage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634119591212-haehlst0fk7cqncmncj5b8v2ncdianmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dizzay.firebaselage",
+            "certificate_hash": "FF5FF8CD4BEAA0B98555DFDC1D24237FA07E4064"
+          }
+        },
+        {
+          "client_id": "634119591212-r4135coljh9s3nqaqso35khhp7e2uqdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmUhlnuME-fSZtpFFY8YhpiOrls4U0ffk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634119591212-r4135coljh9s3nqaqso35khhp7e2uqdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
